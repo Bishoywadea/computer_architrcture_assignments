@@ -1,0 +1,180 @@
+{C:/Users/laptop/Desktop/New folder (3)/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu
+-- Compiling architecture arch_alu of alu
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_d.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_d.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d
+-- Compiling architecture arch_d of part_d
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_8adder
+-- Compiling architecture a_my_8adder of my_8adder
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b_tb
+-- Compiling architecture arch_b_tb of part_b_tb
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d_tb
+-- Compiling architecture arch_d_tb of part_d_tb
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu_tb
+-- Compiling architecture arch_alu_tb of alu_tb
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(42): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(42): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(43): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(43): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(54): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(54): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(55): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(55): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(66): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(66): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(67): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(67): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(78): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(78): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(79): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(79): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(90): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(90): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(102): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(102): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(114): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(114): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(126): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(126): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(138): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(138): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(150): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(150): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(162): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(162): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(174): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(174): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(186): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(186): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(198): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(198): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(210): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(210): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(211): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(211): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(223): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(223): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(224): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(224): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(237): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(237): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(238): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(238): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(251): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(251): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(252): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(252): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(265): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(265): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(266): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(266): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(279): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(279): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(280): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(280): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(293): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(293): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(294): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(294): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(303): (vcom-1136) Unknown identifier "to_hstring".
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(303): Type error resolving infix expression "&" as type std.STANDARD.STRING.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(307): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(307): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(308): Bit string literal found where non-array type ieee.std_logic_1164.STD_LOGIC was expected.
+** Warning: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(308): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+** Error: C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd(323): VHDL Compiler exiting
+
+} {10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 48.0 49.0 50.0 51.0 52.0 53.0 54.0 55.0 56.0 57.0 58.0 59.0 60.0 61.0 62.0 63.0 64.0 65.0 66.0 67.0 68.0 69.0 70.0 71.0 72.0 73.0 74.0 77.0 78.0 79.0 80.0 81.0} {}} {C:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_a_tb
+-- Compiling architecture arch_a_tb of part_a_tb
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c_tb
+-- Compiling architecture arch_c_tb of part_c_tb
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_a.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_a.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity part_a
+-- Compiling architecture arch_part_a of part_a
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_b.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_b.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b
+-- Compiling architecture arch_b of part_b
+
+} {} {}} {C:/Users/laptop/Desktop/New folder (3)/part_c.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laptop/Desktop/New folder (3)/part_c.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c
+-- Compiling architecture arch_c of part_c
+
+} {} {}}

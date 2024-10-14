@@ -1,0 +1,416 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/CMP_5/Computer Architecture/labs/lab1
+Ealu
+Z1 w1728120359
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8F:/CMP_5/Computer Architecture/labs/lab1/alu.vhd
+Z5 FF:/CMP_5/Computer Architecture/labs/lab1/alu.vhd
+l0
+L4
+V0CeaniILe<[LzoTWY21dS1
+!s100 PLGj5OhdTFV?7[P0n;Q123
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1728226705
+!i10b 1
+Z8 !s108 1728226705.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/alu.vhd|
+Z10 !s107 F:/CMP_5/Computer Architecture/labs/lab1/alu.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch_alu
+R2
+R3
+DEx4 work 3 alu 0 22 0CeaniILe<[LzoTWY21dS1
+l47
+L14
+V_kHCffShID_dEhbH4z:_S2
+!s100 ^ez0azoPokd^Ed7iPA0mZ2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aarch1
+R2
+R3
+DEx4 work 3 alu 0 22 FVI8LcPE7R_MTDlI2GcIE3
+l52
+L13
+VZKPdPb]WgdLUALH?A]LR92
+!s100 [NC@AoSDGca_jlQdF0?^I0
+R6
+32
+!s110 1728114223
+!i10b 1
+!s108 1728114223.000000
+Z13 !s90 alu.vhd|
+Z14 !s107 alu.vhd|
+!i113 1
+R12
+w1728114164
+Z15 Falu.vhd
+Z16 8alu.vhd
+Ealu_tb
+Z17 w1728127995
+R2
+R3
+R0
+Z18 8F:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd
+Z19 FF:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd
+l0
+L4
+V:]J]`9@iX<=D0GUCBPbIe3
+!s100 ^gcKOlR<zJ4CmPWH6:>kS0
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd|
+Z21 !s107 F:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_alu_tb
+R2
+R3
+DEx4 work 6 alu_tb 0 22 :]J]`9@iX<=D0GUCBPbIe3
+l25
+L7
+VlITXU4b3SIcY56;:G6V`e1
+!s100 XhcTSzBSQN<lXBkI58KOk3
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+Egroupb
+Z22 w1727943290
+R2
+R3
+R0
+Z23 8group_b.vhd
+Z24 Fgroup_b.vhd
+l0
+L4
+V>7Paa?_X8@bk_mjoOhzV63
+!s100 ;L9UVfU>NYDedKn>C>[B11
+R6
+32
+Z25 !s110 1728115160
+!i10b 1
+Z26 !s108 1728115160.000000
+Z27 !s90 group_b.vhd|
+Z28 !s107 group_b.vhd|
+!i113 1
+R12
+Adata_flow
+R2
+R3
+DEx4 work 6 groupb 0 22 >7Paa?_X8@bk_mjoOhzV63
+l14
+L13
+V9U^zOGo[eRfGlm6E2o8T`3
+!s100 F9l?8UomSTYnQ;l`NCGWX3
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+Epart_b
+Z29 w1728225627
+R2
+R3
+R0
+Z30 8F:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd
+Z31 FF:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd
+l0
+L4
+V]ZIROc<`[Igmi3XkYg72[0
+!s100 @Vb`;;3^9gnTj9hK<FlYf3
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd|
+Z33 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd|
+!i113 1
+R11
+R12
+Aarch_b
+R2
+R3
+DEx4 work 6 part_b 0 22 ]ZIROc<`[Igmi3XkYg72[0
+l14
+L13
+VblGSI:Oz`WYO]^8[jGnU21
+!s100 kVTmInW3Nm4k_=OjBgz7?0
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Epart_b_tb
+Z34 w1728125051
+R2
+R3
+R0
+Z35 8F:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd
+Z36 FF:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd
+l0
+L4
+V?^TM6oml2hSV05GF9Pfkb0
+!s100 CXZ^aeGMJRlPORB?S6J4W0
+R6
+32
+R7
+!i10b 1
+R8
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd|
+Z38 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_b_tb
+R2
+R3
+DEx4 work 9 part_b_tb 0 22 ?^TM6oml2hSV05GF9Pfkb0
+l21
+L6
+VkB39oe7VXIRIPGS0cJ]j^0
+!s100 VE8J<>@CgdonlHazX;3@L1
+R6
+32
+R7
+!i10b 1
+R8
+R37
+R38
+!i113 1
+R11
+R12
+Epart_c
+Z39 w1728126716
+R2
+R3
+R0
+Z40 8F:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd
+Z41 FF:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd
+l0
+L4
+Va2SkXXUjeSjSDza[fRkdS3
+!s100 OLFc`5co<4A?Afz7j@E=N3
+R6
+32
+Z42 !s110 1728226706
+!i10b 1
+Z43 !s108 1728226706.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd|
+Z45 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd|
+!i113 1
+R11
+R12
+Aarch_c
+R2
+R3
+DEx4 work 6 part_c 0 22 a2SkXXUjeSjSDza[fRkdS3
+l15
+L14
+VjO@3kgckMd@PgYEHSC^U50
+!s100 dIg=;JhYAJc7;kMZc1LIg2
+R6
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R11
+R12
+Epart_c_tb
+Z46 w1728124788
+R2
+R3
+R0
+Z47 8F:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd
+Z48 FF:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd
+l0
+L4
+VEkVI]CQi1h5M0bhWNz69:3
+!s100 lOm>jj?mLzgm@6@=]30K=1
+R6
+32
+R42
+!i10b 1
+R43
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd|
+Z50 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_c_tb
+R2
+R3
+DEx4 work 9 part_c_tb 0 22 EkVI]CQi1h5M0bhWNz69:3
+l24
+L7
+V`<XcUV<[TF8c;olVme[gQ2
+!s100 4TR6iAnlLbTh1U@`Gfl491
+R6
+32
+R42
+!i10b 1
+R43
+R49
+R50
+!i113 1
+R11
+R12
+Epart_d
+Z51 w1728127031
+R2
+R3
+R0
+Z52 8F:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd
+Z53 FF:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd
+l0
+L4
+VRmIVE?_QEd]Vj:9?_b8zB1
+!s100 ANJfP:`@R6]Y_?dbCGGN30
+R6
+32
+R42
+!i10b 1
+R43
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd|
+Z55 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd|
+!i113 1
+R11
+R12
+Aarch_d
+R2
+R3
+DEx4 work 6 part_d 0 22 RmIVE?_QEd]Vj:9?_b8zB1
+l15
+L14
+VIS?MFK?2o]E;74HfUO2bX0
+!s100 m5?_^Ua=Scj]:;_W=m=Do2
+R6
+32
+R42
+!i10b 1
+R43
+R54
+R55
+!i113 1
+R11
+R12
+Epart_d_tb
+Z56 w1728127252
+R2
+R3
+R0
+Z57 8F:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd
+Z58 FF:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd
+l0
+L4
+Va<0f]z_V>;13UF]AJ;bkQ2
+!s100 V3@[hJhKSokD]`44A<od81
+R6
+32
+R42
+!i10b 1
+R43
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd|
+Z60 !s107 F:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_d_tb
+R2
+R3
+DEx4 work 9 part_d_tb 0 22 a<0f]z_V>;13UF]AJ;bkQ2
+l25
+L7
+V?5=5o6_=QbBKV:FT`B`ca0
+Z61 !s100 oE[>mDnLa;CM9?dzO>lD;1
+R6
+32
+R42
+!i10b 1
+R43
+R59
+R60
+!i113 1
+R11
+R12
+Exor_gate
+Z62 w1728115318
+R2
+R3
+R0
+R16
+R15
+l0
+L16
+VUO<F5hIKCbgFeKEc[L[VW1
+!s100 _LCe7:d><JM9XfW]nE`Ko2
+R6
+32
+Z63 !s110 1728115323
+!i10b 1
+Z64 !s108 1728115323.000000
+R13
+R14
+!i113 1
+R12
+Aarch_xor
+R2
+R3
+DEx4 work 8 xor_gate 0 22 UO<F5hIKCbgFeKEc[L[VW1
+l26
+L25
+VcF19WSno?M_bB3WT`[Hz60
+!s100 3ZPRkbdl?W?`Id`]<01<32
+R6
+32
+R63
+!i10b 1
+R64
+R13
+R14
+!i113 1
+R12

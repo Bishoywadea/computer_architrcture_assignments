@@ -1,0 +1,505 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Ealu
+Z0 w1728811451
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/laptop/Desktop/New folder (3)
+Z4 8alu.vhd
+Z5 Falu.vhd
+l0
+L4
+VWg]_gmaYaniAXGKQzj5oe0
+!s100 dYM0O>j1O[:h=]dMnHEh21
+Z6 OV;C;10.5b;63
+33
+Z7 !s110 1728811793
+!i10b 1
+Z8 !s108 1728811793.000000
+Z9 !s90 -reportprogress|300|-2008|alu.vhd|
+Z10 !s107 alu.vhd|
+!i113 1
+Z11 o-2008
+Z12 tExplicit 1 CvgOpt 0
+Aarch_alu
+R1
+R2
+DEx4 work 3 alu 0 22 Wg]_gmaYaniAXGKQzj5oe0
+l66
+L15
+VCAzV]En8nnUCHPhQdOT?[2
+Z13 !s100 S:L5aGf`8J0VezDA60JPG2
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu_tb
+R0
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+8C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd
+FC:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd
+l0
+L5
+V8fg1V>_C6mAh2g`26m4hg2
+!s100 oO66D3Lee_2OhkAQWn=851
+R6
+32
+Z16 !s110 1728811663
+!i10b 1
+Z17 !s108 1728811662.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd|
+!s107 C:/Users/laptop/Desktop/New folder (3)/alu_tb.vhd|
+!i113 1
+Z18 o-work work -2002 -explicit
+R12
+Emy_8adder
+R0
+R1
+R2
+R3
+Z19 8C:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd
+Z20 FC:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd
+l0
+L3
+VYA^?3dJ@T_4f>zmeQzTI52
+!s100 ITGC7<6X1oEWIdPcY14ld0
+R6
+32
+Z21 !s110 1728811662
+!i10b 1
+R17
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd|
+Z23 !s107 C:/Users/laptop/Desktop/New folder (3)/8_bit_adder.vhd|
+!i113 1
+R18
+R12
+Aa_my_8adder
+R1
+R2
+DEx4 work 9 my_8adder 0 22 YA^?3dJ@T_4f>zmeQzTI52
+l17
+L11
+VFF3ngOC]n^[VGaHTL?;T32
+!s100 ;zXcI2nPUf9zkBYVbM2^h2
+R6
+32
+R21
+!i10b 1
+R17
+R22
+R23
+!i113 1
+R18
+R12
+Emy_adder
+R0
+R1
+R2
+R3
+Z24 8C:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd
+Z25 FC:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd
+l0
+L3
+V4GBPfJf_FNDlAXH026F;W0
+!s100 X[=V[:od?;63fG1Jg0eHi0
+R6
+32
+R21
+!i10b 1
+R17
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd|
+Z27 !s107 C:/Users/laptop/Desktop/New folder (3)/1_bit_adder.vhd|
+!i113 1
+R18
+R12
+Aa_my_adder
+R1
+R2
+DEx4 work 8 my_adder 0 22 4GBPfJf_FNDlAXH026F;W0
+l9
+L9
+ViejBnULGi?KkLJGW2zkRi2
+!s100 @TzLE5kAS<g31JdAje:8P3
+R6
+32
+R21
+!i10b 1
+R17
+R26
+R27
+!i113 1
+R18
+R12
+Emy_nadder
+R0
+R1
+R2
+R3
+Z28 8C:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd
+Z29 FC:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd
+l0
+L3
+VhSRaSl4[Ta]Cj_58JeCEa1
+!s100 TiVJJa:Wl^ZRniNSDO=he2
+R6
+32
+R16
+!i10b 1
+Z30 !s108 1728811663.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd|
+Z32 !s107 C:/Users/laptop/Desktop/New folder (3)/n_bit_adder.vhd|
+!i113 1
+R18
+R12
+Aa_my_nadder
+R1
+R2
+DEx4 work 9 my_nadder 0 22 hSRaSl4[Ta]Cj_58JeCEa1
+l17
+L12
+VhHgYk>XoI^H?k8Vn`Tb402
+!s100 Q36i;3YX[DLWYz7I>_k8C3
+R6
+32
+R16
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R18
+R12
+Epart_a
+R0
+R14
+R15
+R1
+R2
+R3
+Z33 8C:/Users/laptop/Desktop/New folder (3)/part_a.vhd
+Z34 FC:/Users/laptop/Desktop/New folder (3)/part_a.vhd
+l0
+L5
+VWg^k1U>7^Uz;joA8U?^N:2
+!s100 7MkCdJV6nDZE^k3N;GoMQ0
+R6
+32
+R16
+!i10b 1
+R30
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_a.vhd|
+Z36 !s107 C:/Users/laptop/Desktop/New folder (3)/part_a.vhd|
+!i113 1
+R18
+R12
+Aarch_part_a
+R14
+R15
+R1
+R2
+DEx4 work 6 part_a 0 22 Wg^k1U>7^Uz;joA8U?^N:2
+l31
+L16
+VL@G3RizYfXBn`KhGmaLZH3
+!s100 MmkdKWa20gQ7JJR^eI>R`0
+R6
+32
+R16
+!i10b 1
+R30
+R35
+R36
+!i113 1
+R18
+R12
+Epart_a_tb
+R0
+R1
+R2
+R3
+Z37 8C:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd
+Z38 FC:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd
+l0
+L4
+VJ9:YPCSDoSMQC;T166n?Z3
+!s100 X?h[JOYHG^J6naBIX`0B22
+R6
+32
+R16
+!i10b 1
+R30
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd|
+Z40 !s107 C:/Users/laptop/Desktop/New folder (3)/part_a_tb.vhd|
+!i113 1
+R18
+R12
+Aarch_a_tb
+R1
+R2
+DEx4 work 9 part_a_tb 0 22 J9:YPCSDoSMQC;T166n?Z3
+l24
+L6
+VEUdI>bm5I@HLg`R[4E]D61
+!s100 Wk@E?;IPfhOZYQnhzS<9Q1
+R6
+32
+R16
+!i10b 1
+R30
+R39
+R40
+!i113 1
+R18
+R12
+Epart_b
+R0
+R1
+R2
+R3
+Z41 8C:/Users/laptop/Desktop/New folder (3)/part_b.vhd
+Z42 FC:/Users/laptop/Desktop/New folder (3)/part_b.vhd
+l0
+L4
+VQO@4<lDcQLecjF;lSVbdl3
+!s100 6dRBFIGBV4dg^IAKPX5cS0
+R6
+32
+R16
+!i10b 1
+R30
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_b.vhd|
+Z44 !s107 C:/Users/laptop/Desktop/New folder (3)/part_b.vhd|
+!i113 1
+R18
+R12
+Aarch_b
+R1
+R2
+DEx4 work 6 part_b 0 22 QO@4<lDcQLecjF;lSVbdl3
+l15
+L14
+V7YDninK]I;3E3HN=OVB820
+!s100 5b`mUHI`7]S]bjD[2hJgB1
+R6
+32
+R16
+!i10b 1
+R30
+R43
+R44
+!i113 1
+R18
+R12
+Epart_b_tb
+R0
+R1
+R2
+R3
+Z45 8C:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd
+Z46 FC:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd
+l0
+L4
+V?^TM6oml2hSV05GF9Pfkb0
+!s100 CXZ^aeGMJRlPORB?S6J4W0
+R6
+32
+R16
+!i10b 1
+R30
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd|
+Z48 !s107 C:/Users/laptop/Desktop/New folder (3)/part_b_tb.vhd|
+!i113 1
+R18
+R12
+Aarch_b_tb
+R1
+R2
+DEx4 work 9 part_b_tb 0 22 ?^TM6oml2hSV05GF9Pfkb0
+l21
+L6
+VkB39oe7VXIRIPGS0cJ]j^0
+!s100 VE8J<>@CgdonlHazX;3@L1
+R6
+32
+R16
+!i10b 1
+R30
+R47
+R48
+!i113 1
+R18
+R12
+Epart_c
+R0
+R1
+R2
+R3
+Z49 8C:/Users/laptop/Desktop/New folder (3)/part_c.vhd
+Z50 FC:/Users/laptop/Desktop/New folder (3)/part_c.vhd
+l0
+L4
+VNz50z9bDnYVPdN_R^IZYM2
+!s100 I7oaSb:E68JC`a4b=f=]L3
+R6
+32
+R16
+!i10b 1
+R30
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_c.vhd|
+Z52 !s107 C:/Users/laptop/Desktop/New folder (3)/part_c.vhd|
+!i113 1
+R18
+R12
+Aarch_c
+R1
+R2
+DEx4 work 6 part_c 0 22 Nz50z9bDnYVPdN_R^IZYM2
+l16
+L15
+V0WF0HXP<nl`L:Wc3m]]6S2
+!s100 PX_LUjhfzbon`EHdWPZV<0
+R6
+32
+R16
+!i10b 1
+R30
+R51
+R52
+!i113 1
+R18
+R12
+Epart_c_tb
+R0
+R1
+R2
+R3
+Z53 8C:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd
+Z54 FC:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd
+l0
+L4
+VEkVI]CQi1h5M0bhWNz69:3
+!s100 lOm>jj?mLzgm@6@=]30K=1
+R6
+32
+R16
+!i10b 1
+R30
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd|
+Z56 !s107 C:/Users/laptop/Desktop/New folder (3)/part_c_tb.vhd|
+!i113 1
+R18
+R12
+Aarch_c_tb
+R1
+R2
+DEx4 work 9 part_c_tb 0 22 EkVI]CQi1h5M0bhWNz69:3
+l24
+L7
+V`<XcUV<[TF8c;olVme[gQ2
+!s100 4TR6iAnlLbTh1U@`Gfl491
+R6
+32
+R16
+!i10b 1
+R30
+R55
+R56
+!i113 1
+R18
+R12
+Epart_d
+R0
+R1
+R2
+R3
+Z57 8C:/Users/laptop/Desktop/New folder (3)/part_d.vhd
+Z58 FC:/Users/laptop/Desktop/New folder (3)/part_d.vhd
+l0
+L4
+VgnUf;K=T5N>_dUoI0D`6D0
+!s100 b0QBjl3dBMFRHVa<^O@H22
+R6
+32
+R16
+!i10b 1
+R30
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_d.vhd|
+Z60 !s107 C:/Users/laptop/Desktop/New folder (3)/part_d.vhd|
+!i113 1
+R18
+R12
+Aarch_d
+R1
+R2
+DEx4 work 6 part_d 0 22 gnUf;K=T5N>_dUoI0D`6D0
+l16
+L15
+V:e];ZfC9KcP2SaVe=RTKR0
+!s100 eJ6XWU5fO4>>A1Xg5eb=62
+R6
+32
+R16
+!i10b 1
+R30
+R59
+R60
+!i113 1
+R18
+R12
+Epart_d_tb
+R0
+R1
+R2
+R3
+Z61 8C:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd
+Z62 FC:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd
+l0
+L4
+Va<0f]z_V>;13UF]AJ;bkQ2
+!s100 V3@[hJhKSokD]`44A<od81
+R6
+32
+R16
+!i10b 1
+R30
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd|
+Z64 !s107 C:/Users/laptop/Desktop/New folder (3)/part_d_tb.vhd|
+!i113 1
+R18
+R12
+Aarch_d_tb
+R1
+R2
+DEx4 work 9 part_d_tb 0 22 a<0f]z_V>;13UF]AJ;bkQ2
+l25
+L7
+V?5=5o6_=QbBKV:FT`B`ca0
+!s100 oE[>mDnLa;CM9?dzO>lD;1
+R6
+32
+R16
+!i10b 1
+R30
+R63
+R64
+!i113 1
+R18
+R12

@@ -1,0 +1,65 @@
+{F:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_c.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c
+-- Compiling architecture arch_c of part_c
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_b_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b_tb
+-- Compiling architecture arch_b_tb of part_b_tb
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_d.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d
+-- Compiling architecture arch_d of part_d
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_c_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_c_tb
+-- Compiling architecture arch_c_tb of part_c_tb
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/alu.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu
+-- Compiling architecture arch_alu of alu
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_d_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_d_tb
+-- Compiling architecture arch_d_tb of part_d_tb
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/alu_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_tb
+-- Compiling architecture arch_alu_tb of alu_tb
+
+} {} {}} {F:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/CMP_5/Computer Architecture/labs/lab1/part_b.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity part_b
+-- Compiling architecture arch_b of part_b
+
+} {} {}}

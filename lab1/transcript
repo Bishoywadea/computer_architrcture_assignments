@@ -1,0 +1,10 @@
+# OpenFile alu_tb.vhd
+vsim work.groupb
+# vsim work.groupb 
+# Start time: 17:55:38 on Oct 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.groupb(data_flow)
+# End time: 17:55:52 on Oct 06,2024, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 0
